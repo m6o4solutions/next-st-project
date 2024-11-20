@@ -19,28 +19,28 @@ importers:
         version: 19.0.0-rc-66855b96-20241106(react@19.0.0-rc-66855b96-20241106)
     devDependencies:
       '@types/node':
-        specifier: ^20
+        specifier: ^20.17.6
         version: 20.17.6
       '@types/react':
-        specifier: ^18
+        specifier: ^18.3.12
         version: 18.3.12
       '@types/react-dom':
-        specifier: ^18
+        specifier: ^18.3.1
         version: 18.3.1
       eslint:
-        specifier: ^8
+        specifier: ^8.57.1
         version: 8.57.1
       eslint-config-next:
         specifier: 15.0.3
         version: 15.0.3(eslint@8.57.1)(typescript@5.6.3)
       postcss:
-        specifier: ^8
+        specifier: ^8.4.49
         version: 8.4.49
       tailwindcss:
-        specifier: ^3.4.1
+        specifier: ^3.4.15
         version: 3.4.15
       typescript:
-        specifier: ^5
+        specifier: ^5.6.3
         version: 5.6.3
 
 packages:
