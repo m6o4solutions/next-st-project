@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 
 import type { Metadata } from "next";
 
-import "@/frontend/globals.css";
+import "@/app/globals.css";
 
 export const metadata: Metadata = {
 	title: "NextJS Starter Template",

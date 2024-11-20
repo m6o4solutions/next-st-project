@@ -12,7 +12,7 @@
 		"noEmit": true,
 		"paths": {
 			"@/*": ["./src/*"],
-			"@/frontend/*": ["./src/app/(frontend)/*"],
+			"@/app/*": ["./src/app/*"],
 			"@/components/*": ["./src/components/*"],
 			"@/hooks/*": ["./src/lib/hooks/*"],
 			"@/lib/*": ["./src/lib/*"]
