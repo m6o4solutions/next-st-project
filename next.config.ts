@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
 			},
 			{
 				protocol: "https",
-				hostname: "next-st.s3interdev.com",
+				hostname: "next-st.s3.co.ke",
 			},
 		],
 	},
